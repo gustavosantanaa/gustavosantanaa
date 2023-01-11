@@ -10,7 +10,7 @@ Desenvolvedor 👨🏻‍💻
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-santana-60b554205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavosantanaa02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=+5562984390390" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+   <a href="https://api.whatsapp.com/send?phone=+5562984390390" target="_blank"><img src="https://wa.me/5562984390390?text=Ol%C3%A1+Gustavo%2C+td+bem%3F"></a>
   <a href="https://instagram.com/gustavo.cardososantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
